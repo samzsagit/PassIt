@@ -1,0 +1,25 @@
+
+
+body {
+  color: #34495e;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 1.231;
+}
+
+
+.Container {display: block; margin:auto; margin-top: 100px; margin-bottom: 100px;}
+
+
+.Title_Container { margin: auto; text-align: center;}
+.Title {  font-size: 90px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 100px;}
+  
+  
+  
+.Main_Search {display: block; margin: auto; margin-left: 50px; width:80%; height:100px;}
+.Search_Head {display:block; float: left;}
+.Tags {clear: left; display:block}
+
